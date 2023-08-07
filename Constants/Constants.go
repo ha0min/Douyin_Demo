@@ -33,3 +33,8 @@ const (
 
 // general constants
 const SUCCESS = "success"
+
+const (
+	STATUS_SUCCESS = 0
+	STATUS_FAILED  = 1
+)
